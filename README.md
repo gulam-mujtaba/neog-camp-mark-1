@@ -1,4 +1,4 @@
-# neog-camp-mark-1 (How well do you know me?)
+#How well do you know me?
 How well do you know me ? - Quiz.
 
 This app will test you on how well you know about me.
